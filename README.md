@@ -19,7 +19,7 @@ A Python utility for simplifying and formatting numbers in German text according
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/German-Number-Simplifier.git
-cd german-number-simplifier
+cd German-Number-Simplifier
 ```
 
 2. The script requires Python 3.6+ (only uses standard library modules).
@@ -115,10 +115,4 @@ The main functionality is implemented through several key components:
    - `format_german_number()`: Applies appropriate formatting based on context
    - `round_to_significant()`: Intelligently rounds numbers to meaningful values
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
