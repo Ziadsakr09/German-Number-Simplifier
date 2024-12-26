@@ -18,7 +18,7 @@ A Python utility for simplifying and formatting numbers in German text according
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/german-number-simplifier.git
+git clone https://github.com/yourusername/German-Number-Simplifier.git
 cd german-number-simplifier
 ```
 
